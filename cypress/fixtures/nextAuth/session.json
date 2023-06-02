@@ -1,0 +1,11 @@
+{
+    "data":
+    {
+        "expires": "1234567890",
+        "user": {
+            "name": "Tester",
+            "email": "test@test.com",
+            "image": "/path/to/img"
+        }
+    }
+}
